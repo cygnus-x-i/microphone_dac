@@ -15,10 +15,7 @@ Expected waveforms were posted to assist with debug.  Remember this code does ha
 
 Credits:
 ______________
-Dallin Astling
-
-Jens Helquist
-
+Dallin Astling  ~  Jens Helquist
 
 Function:
 _____________
