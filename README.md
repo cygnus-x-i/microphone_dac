@@ -1,4 +1,4 @@
-# Microphone + Digital to Analog Converter
+# Audio to Electrical Analog Converter
 __________________________________________
 FPGA:       Arctix 7 Basys 3
 
