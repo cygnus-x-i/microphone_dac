@@ -33,7 +33,7 @@ module audio_dac_top(
     input btnC,
     
 //    Output to DAC
-    output SYNC, DATA, board_clk,
+    output SYNC, DATA, board_clk,  // board_clk and SCLK are the same thing
 //    Microphone I/O
     output SCK, SS,
     input MISO,
