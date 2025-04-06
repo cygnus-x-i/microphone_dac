@@ -10,10 +10,11 @@ module master_clk(
 
     // Controls all clocks for the system
     
-    parameter DIV_VALUE = 141; // Increase DIV_VALUE to decrease clock speed
-                               // This is supposed to be ~705.6 kHz which is
-                               // NOT its current speed.  This should be 
-                               // changed.  Soon.
+    parameter DIV_VALUE = 20; // Increase DIV_VALUE to decrease clock speed
+                               // This is supposed to be ~705.6 kHz for a 
+                               // sample rate of 44.1 kHz.  Sample rate now
+                               // is about 156,250 Hz (Higher quality than
+                               // 44.1 kHz
     
     reg [11:0] counter;
     
