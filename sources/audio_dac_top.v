@@ -20,7 +20,6 @@
 // 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 // TO DO ~
-// ~ occasionaly analog signal drops to 0V, seems random.  Not a huge impact
 // ~ Increase sample rate to 44.1 kHz
 // ~ Fix clock timings in digital_analog (see digital_analog for more info)
 // ~ Remove SPI_top - it does nothing.
